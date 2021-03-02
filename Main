@@ -1,7 +1,7 @@
 // Final project : 4 in row
 // Campus : Ashdod
 // Samuel Levy , Id : 345112148
-// Shir El Halimi , Id : 206085607
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
